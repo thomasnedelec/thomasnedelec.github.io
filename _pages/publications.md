@@ -21,9 +21,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.fr/c
 
 
 ### Statistics for economics and auction design 
-* [Revenue-Maximizing Auctions: A Bidder’s Standpoint.](https://pubsonline.informs.org/doi/abs/10.1287/opre.2022.2316t) Thomas Nedelec Clément Calauzènes, Vianney Perchet, and Noureddine El Karoui.  ***Operations Research, 2022*** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3827136)
+* [Revenue-Maximizing Auctions: A Bidder’s Standpoint.](https://pubsonline.informs.org/doi/abs/10.1287/opre.2022.2316t) Thomas Nedelec, Clément Calauzènes, Vianney Perchet, and Noureddine El Karoui.  ***Operations Research, 2022*** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3827136)
 * [Learning in repeated auctions.](https://www.nowpublishers.com/article/Details/MAL-077) Thomas Nedelec, Clément Calauzènes, Noureddine El Karoui and Vianney Perchet.  ***Foundations and Trends® in Machine Learning, 2022*** [Arxiv](https://arxiv.org/abs/2011.09365)
-* [Adversarial learning for revenue-maximizing auctions.](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p955.pdf) Thomas Nedelec Clément Calauzènes, Vianney Perchet, and Noureddine El Karoui.  ***Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems, 2021*** 
+* [Adversarial learning for revenue-maximizing auctions.](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p955.pdf) Thomas Nedelec, Clément Calauzènes, Vianney Perchet, and Noureddine El Karoui.  ***Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems, 2021*** 
 * [Robust Stackelberg buyers in repeated auctions.](http://proceedings.mlr.press/v108/nedelec20a.html) Thomas Nedelec Clément Calauzènes, Vianney Perchet, and Noureddine El Karoui.  ***Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics*, PMLR 108:1342-1351, 2020** 
 * [Learning to bid in revenue-maximizing auctions.](http://proceedings.mlr.press/v97/nedelec19a.html) Thomas Nedelec, Noureddine El Karoui and Vianney Perchet.  ***Proceedings of the 36th International Conference on Machine Learning*, PMLR 97:4781-4789, 2019**
 
