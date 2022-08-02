@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=thomas+nedelec"
   googlescholar    : "https://scholar.google.fr/citations?user=DiLQ2X8AAAAJ&hl=fr"
-  email            :
+  email            : "thomas.nedelec@icm-institute.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9310-2879"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "thomas_nedelec"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

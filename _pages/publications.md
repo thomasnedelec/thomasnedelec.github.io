@@ -20,7 +20,7 @@ Statistics for economics and auction design
 ======
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}  
 Counterfactual reasoning and causal learning 
 ======
 {% for post in site.publications reversed %}
