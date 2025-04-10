@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Thomas Nedelec. I am a Research Scientist at the Paris Brain Institute. I got my PhD in Applied Mathematics at the University of Paris Saclay, where I was fortunately advised by Pr. Noureddine El Karoui and Pr. Vianney Perchet. Before my PhD, I got my B.S. in Mathematics and Computer Science at Ecole polytechnique. I am interested in applying new statistical models and data science techniques to try to improve our understanding of some important health and economics problems. My research is currently funded by a EU Joint Programme – Neurodegenerative Disease Research (JPND) grant.
+My name is Thomas Nedelec. I am a Research Scientist at the Paris Brain Institute. I received my PhD in Applied Mathematics from the University of Paris-Saclay, where I had the privilege of being advised by Prof. Noureddine El Karoui and Prof. Vianney Perchet. Before my PhD, I earned a B.S. in Mathematics and Computer Science from École Polytechnique.
 
+I am interested in applying new statistical models and data science techniques to improve our understanding of major health challenges. My research currently focuses on comparing the epidemiology of neurological disorders and on better understanding the early signs of these diseases—also known as the prodromal phase.
+
+To conduct this research, I use large real-world health databases and have developed a robust framework that enables consistent analyses across international consortia. My work is currently funded by a grant from the EU Joint Programme – Neurodegenerative Disease Research (JPND).
 
