@@ -10,6 +10,10 @@ You can also find my articles on my [Google Scholar](https://scholar.google.fr/c
 
 
 ### Neuro-epidemiology
+
+* [Drivers of rising prevalence in major motor neurodegenerative diseases: temporal trends in Sweden and France (2003–2022).](https://www.neurology.org/doi/pdf/10.1212/WNL.0000000000218072) Octave Guinebretière, Fen Yang, …, Fang Fang, Thomas Nedelec. Neurology, 2026
+
+* [Long-term effect of discontinuing anticholinesterase treatment on cognitive decline and mortality in Alzheimer's disease in France: a quasi-experiment and target trial emulation study.](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(26)00019-0/fulltext) Simon Lecerf, Octave Guinebretière, …, Thomas Nedelec, Thibaud Lebouvier. The Lancet Regional Health – Europe, 2026
   
 * [Ten years preceding a diagnosis of neurodegenerative disease in Europe and Australia: medication use, health conditions, and biomarkers associated with Alzheimer’s disease, Parkinson’s disease, and amyotrophic lateral sclerosis.](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00029-5/fulltext) . Dang Wei, Octave Guinebretière, …, Fang Fang, Thomas Nedelec. ***eBioMedecine, 2025***
 
