@@ -39,6 +39,13 @@ Funding
 
 My work is funded by the PEPR ProdroMND (France 2030, Principal Investigator) and the PEPR Transcend (France 2030, co-investigator). It was previously funded by the EU Joint Programme – Neurodegenerative Disease Research (JPND), in collaboration with Karolinska Institutet and the University of Queensland.
 
+Open software
+======
+
+**NeuroCohortBuilder.** A phenotyping pipeline developed in our group that extracts from clinical notes what administrative records do not contain: the confirmed diagnosis, the onset date reported by the neurologist and the severity at baseline. It runs open-weight language models inside the hospital environment and attaches a certainty level to each extracted item, so that experts only review the cases the model is unsure about. In ALS, it reached 97% sensitivity and 97% positive predictive value against expert review, and agreed with the Pitié-Salpêtrière expert ALS cohort in 93% of cases.
+
+**[sndsTools](https://github.com/SNDStoolers/sndsTools).** A community R package, developed with other SNDS users, to extract healthcare use for a given population from the French national health data system: outpatient care and drug dispensing, long-term illness status and hospital stays, following the national health insurance recommendations and standard quality filters.
+
 Team
 ======
 
