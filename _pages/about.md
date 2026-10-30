@@ -46,6 +46,19 @@ Open software
 
 **[sndsTools](https://github.com/SNDStoolers/sndsTools).** A community R package, developed with other SNDS users, to extract healthcare use for a given population from the French national health data system: outpatient care and drug dispensing, long-term illness status and hospital stays, following the national health insurance recommendations and standard quality filters.
 
+Collaborations
+======
+
+Our comparative work relies on long-standing collaborations with groups working on national health data in other countries:
+
+* **Sweden**, Karolinska Institutet: Pr. Fang Fang, Pr. Kyla McKay
+* **Denmark**, Aarhus University: Pr. Mette Nørgaard, Pr. Henrik Toft Sørensen
+* **Germany**, Central Research Institute of Ambulatory Health Care (Zi), Berlin: Pr. Jakob Holstiege
+* **United Kingdom**, University College London: Pr. Anette Schrag, Pr. Mika Kivimäki
+* **Australia**, University of Queensland (JPND consortium), Dr. Baptiste Couvy-Duchesne, Dr. Alan McRae
+
+In France, we work closely with the neurology departments of Pitié-Salpêtrière hospital and the Paris Brain Institute.
+
 Team
 ======
 
