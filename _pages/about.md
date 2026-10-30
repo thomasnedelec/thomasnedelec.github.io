@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Principal Investigator at the Paris Brain Institute (ICM), in the ARAMIS Lab, a joint INRIA–ICM team that develops data-science and AI methods for neurology. Within ARAMIS, I lead a group of six working on routinely collected health data, and I am a member of the Institute's Center for AI and Data Science for neurological disorders. I am also a medical resident at AP-HP (Pitié-Salpêtrière).
+I am a Principal Investigator at the Paris Brain Institute (ICM), in the ARAMIS Lab, a joint INRIA–ICM team that develops data-science and AI methods for neurology. Within ARAMIS, I lead a group of six working on routinely collected health data, and I am a member of the Institute's Center for AI and Data Science for neurological disorders. 
 
-I came to epidemiology from machine learning. After an engineering degree from École Polytechnique, specialising in applied mathematics, and an M.Sc. in Machine Learning from University College London, I completed a PhD in Applied Mathematics at ENS Paris-Saclay under the supervision of Vianney Perchet and Noureddine El Karoui. My thesis, prepared in parallel with a position at Criteo AI Lab, dealt with online learning and auction theory; it led to publications at ICML and AISTATS and a monograph in *Foundations and Trends in Machine Learning*. I joined the ARAMIS Lab as a postdoctoral fellow in 2019, moved to the epidemiology of neurodegenerative diseases, and obtained the Habilitation à Diriger des Recherches from Sorbonne University in 2026.
+I came to epidemiology from machine learning. After an engineering degree from École Polytechnique, specialising in applied mathematics, and an M.Sc. in Machine Learning from University College London, I completed a PhD in Applied Mathematics at ENS Paris-Saclay under the supervision of Vianney Perchet and Noureddine El Karoui. My thesis, prepared in parallel with a position at Criteo AI Lab, dealt with online learning and auction theory. I joined the ARAMIS Lab as a postdoctoral fellow in 2019, moved to the epidemiology of neurodegenerative diseases, and obtained the Habilitation à Diriger des Recherches from Sorbonne University in 2026.
 
-In 2026, I was selected as one of France's ten Next Gen Leaders in Health (La French Care and Le Figaro, academic category), and our work on the rising prevalence of motor neurodegenerative diseases was selected among the five most exciting studies at the European Academy of Neurology Congress.
+In 2026, I was selected as one of France's ten Next Gen Leaders in Health (La French Care and Le Figaro, academic category), and our work on the rising prevalence of motor neurodegenerative diseases was selected among the five most exciting studies at the European Academy of Neurology Congress in Geneva.
 
 Research
 ======
