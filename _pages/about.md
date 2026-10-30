@@ -21,7 +21,7 @@ My research uses routinely collected health data (national claims databases, hos
 
 <figure class="research-figure">
   <img src="/images/trajectories.png" alt="Schematic care trajectories for Alzheimer's disease, Parkinson's disease, multiple sclerosis and ALS, from the prodrome to progression">
-  <figcaption>Care trajectories recorded in routine health data, before and after diagnosis (schematic).</figcaption>
+  <figcaption>Care trajectories recorded in routine health data, before and after diagnosis.</figcaption>
 </figure>
 
 The work is organised around four axes.
