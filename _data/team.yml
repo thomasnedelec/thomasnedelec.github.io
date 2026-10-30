@@ -1,0 +1,68 @@
+# Team members shown at the bottom of the About page.
+# status: current | former   (any other value is not displayed)
+# photo: file in images/team/ (leave empty to show initials)
+
+- name: Léa Aguilhon
+  role: PhD student in epidemiology (2025–2028)
+  photo: lea-aguilhon.jpg
+  status: current
+
+- name: Clémence Sarrau
+  role: PhD student in epidemiology (2026–2029)
+  photo: clemence-sarrau.jpg
+  status: current
+
+- name: Octave Guinebretière
+  role: PhD student (2022–2025), now AHU in epidemiology, AP-HP / Sorbonne Université
+  photo: octave-guinebretiere.jpg
+  status: former
+
+- name: Ba-Khuong Dang
+  role: AI research engineer
+  photo: ba-khuong-dang.jpg
+  status: current
+
+- name: Clément Goy
+  role: Intern
+  photo: clement-goy.jpg
+  status: current
+
+- name: Louis Corneloup
+  role: AI research engineer
+  photo: louis-corneloup.jpg
+  status: current
+
+- name: Camille Koczorowski
+  role: Intern
+  photo: camille-koczorowski.jpg
+  status: current
+
+- name: Léo Guillon
+  role: Research engineer, now mathematics teacher
+  photo: leo-guillon.jpg
+  status: former
+
+- name: Antoine Belloir
+  role: Research engineer, now medical resident
+  photo: antoine-belloir.jpg
+  status: former
+
+- name: Charlotte Montaud
+  role: Intern, now at SNCF
+  photo: charlotte-montaud.jpg
+  status: former
+
+- name: Nadide Hamieh
+  role: Postdoctoral fellow, now postdoctoral researcher at INSERM
+  photo: nadide-hamieh.jpg
+  status: former
+
+- name: Aube Darves-Bornoz
+  role: Intern, now PhD student in neuroscience
+  photo: aube-darves-bornoz.jpg
+  status: former
+
+- name: Emma Deloupy
+  role: Intern, now MPhil in Biotechnology, University of Cambridge
+  photo: emma-deloupy.jpg
+  status: former

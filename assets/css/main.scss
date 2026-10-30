@@ -39,3 +39,24 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* Research figure and team grid (About page) */
+.research-figure { margin: 1.5em 0 2em; }
+.research-figure img { width: 100%; height: auto; }
+.research-figure figcaption { font-size: 0.8em; color: #6b6b6b; margin-top: 0.5em; }
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(105px, 1fr));
+  gap: 1.5em 1em;
+  margin: 1em 0 2em;
+}
+.team-member { text-align: center; }
+.team-member img, .team-member .team-initials {
+  width: 96px; height: 96px; border-radius: 50%;
+  object-fit: cover; display: block; margin: 0 auto 0.5em;
+}
+.team-member .team-initials {
+  background: #e8e8ee; color: #494e52; font-weight: bold;
+  line-height: 96px; font-size: 1.6em;
+}
+.team-member .team-name { font-weight: bold; font-size: 0.9em; }
+.team-member .team-role { font-size: 0.75em; color: #6b6b6b; line-height: 1.3; }
