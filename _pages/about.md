@@ -78,3 +78,8 @@ Team
 </div>
 {% endif -%}
 {%- endfor %}
+
+Open positions
+======
+
+We are recruiting postdoctoral fellows, research engineers, PhD students and interns with a background in epidemiology, statistics, machine learning or medicine. If you are interested in working with routinely collected health data on neurological disorders, please contact me at firstname.lastname(at)icm-institute.org with a CV and a short description of your interests.
