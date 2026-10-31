@@ -17,10 +17,7 @@ In 2026, I was selected as one of France's ten Next Gen Leaders in Health (La Fr
 Research
 ======
 
-My research uses routinely collected health data (national claims databases, hospital data warehouses and population registers) to study neurological disorders from their earliest signs to their progression. 
-
-A neurodegenerative disease is diagnosed at the end of a process that has run for years, and every current treatment starts at that end. This prodromal phase, lasting years to decades, is now recognised across the spectrum: formalised for Parkinson's disease in the Movement Disorder Society research criteria, documented in multiple sclerosis before the first demyelinating event, and established even in amyotrophic lateral sclerosis, where it is detectable in nationwide prescription records years ahead. Beyond symptoms, the same period carries the comorbidities and risk factors, from type 2 diabetes and dyslipidaemia to hypertension, that accompany the emerging disease.
-
+A neurodegenerative disease is diagnosed at the end of a process that has run for years, and every current treatment starts at that end. 
 Routinely collected health data, the claims and hospital records generated as a by-product of ordinary care for an entire population, give access to this period. They capture, at national scale and without recruitment, the medications, diagnoses and care of people years before any diagnosis, including those who will never be diagnosed. My research uses these data (national claims databases, hospital data warehouses and population registers) to study neurological disorders from their earliest signs to their progression.
 
 <figure class="research-figure">
