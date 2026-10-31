@@ -34,6 +34,11 @@ Our work is organised around four axes.
 
 **Data-driven subtyping.** We combine care trajectories, clinical information, environmental exposures and genetics to identify subgroups of patients that may cut across diagnostic categories and differ in their course. The long-term aim is to stratify patients at diagnosis and to identify, for each subgroup, existing interventions that may alter it.
 
+OneBrain cohort
+======
+
+OneBrain is a new prospective cohort of patients with neurological disorders followed at the Pitié-Salpêtrière hospital, of which I am co-principal investigator. Its originality is that it is linked from the start to routine care data: for each participant, the data collected at inclusion (a blood sample for genome-wide genotyping and biomarkers, and a structured interview on occupational and residential exposures) join the full care trajectory recorded in the AP-HP clinical data warehouse and in the national health data system. Inclusions will start in 2027 with an initial target of 5,000 patients, with the aim of reaching 100,000.
+
 Funding
 ======
 
@@ -78,11 +83,6 @@ Team
 </div>
 {% endif -%}
 {%- endfor %}
-
-OneBrain cohort
-======
-
-OneBrain is a new prospective cohort of patients with neurological disorders followed at the Pitié-Salpêtrière hospital, of which I am co-principal investigator. Its originality is that it is linked from the start to routine care data: for each participant, the data collected at inclusion (a blood sample for genome-wide genotyping and biomarkers, and a structured interview on occupational and residential exposures) join the full care trajectory recorded in the AP-HP clinical data warehouse and in the national health data system. Inclusions will start in 2027 with an initial target of 5,000 patients, with the aim of reaching 100,000.
 
 Open positions
 ======
