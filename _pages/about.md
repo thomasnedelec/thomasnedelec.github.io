@@ -17,20 +17,24 @@ In 2026, I was selected as one of France's ten Next Gen Leaders in Health (La Fr
 Research
 ======
 
-My research uses routinely collected health data (national claims databases, hospital data warehouses and population registers) to study neurological disorders from their earliest signs to their progression.
+My research uses routinely collected health data (national claims databases, hospital data warehouses and population registers) to study neurological disorders from their earliest signs to their progression. 
+
+A neurodegenerative disease is diagnosed at the end of a process that has run for years, and every current treatment starts at that end. This prodromal phase, lasting years to decades, is now recognised across the spectrum: formalised for Parkinson's disease in the Movement Disorder Society research criteria, documented in multiple sclerosis before the first demyelinating event, and established even in amyotrophic lateral sclerosis, where it is detectable in nationwide prescription records years ahead. Beyond symptoms, the same period carries the comorbidities and risk factors, from type 2 diabetes and dyslipidaemia to hypertension, that accompany the emerging disease.
+
+Routinely collected health data, the claims and hospital records generated as a by-product of ordinary care for an entire population, give access to this period. They capture, at national scale and without recruitment, the medications, diagnoses and care of people years before any diagnosis, including those who will never be diagnosed. My research uses these data (national claims databases, hospital data warehouses and population registers) to study neurological disorders from their earliest signs to their progression.
 
 <figure class="research-figure">
   <img src="/images/trajectories.png" alt="Schematic care trajectories for Alzheimer's disease, Parkinson's disease, multiple sclerosis and ALS, from the prodrome to progression">
   <figcaption>Care trajectories recorded in routine health data, before and after diagnosis.</figcaption>
 </figure>
 
-The work is organised around four axes.
+Our work is organised around four axes.
+
+**Phenotyping from clinical notes.** AI now makes it possible to exploit a part of routine-care data that has long remained out of reach: the free text written by clinicians, from neurologists' notes to hospital reports and letters. These texts record what administrative data do not, such as the confirmed diagnosis, the date of onset and disease severity. With NeuroCohortBuilder, a pipeline built on open-weight language models run inside the hospital environment, we extract this information from the notes of the AP-HP clinical data warehouse and link it to the national claims database to measure what national data can and cannot show.
 
 **Validating national health databases and comparing countries.** A disease must be identified and dated consistently before it can be compared across health systems. We develop harmonised case definitions and use them to estimate incidence and its trends in France and across Europe, so that differences between countries reflect populations rather than data sources. Recent work includes national incidence estimates for multiple sclerosis and motor neuron diseases in France, and a France–Sweden analysis of what drives their rising prevalence. This axis relies on collaborations with Karolinska Institutet, Aarhus University, the Zi in Berlin and University College London.
 
 **Transnosographic study of the prodrome of neurological disorders.** Neurodegenerative diseases begin years before diagnosis. Rather than testing one hypothesis at a time, we use agnostic, data-driven approaches to scan the care trajectories of hundreds of thousands of patients, in nested case-control designs replicated across national databases. This allows us to characterise the years preceding Alzheimer’s disease, Parkinson’s disease, multiple sclerosis and ALS, and we then use Mendelian randomisation to separate early symptoms from causal risk factors.
-
-**Phenotyping from clinical notes.** Administrative data do not record disease onset or severity. With NeuroCohortBuilder, a pipeline built on open-weight language models run inside the hospital environment, we extract confirmed diagnoses, onset dates and clinical scores from the notes of the AP-HP clinical data warehouse, and link them to the national claims database to measure what national data can and cannot show.
 
 **Data-driven subtyping.** We combine care trajectories, clinical information, environmental exposures and genetics to identify subgroups of patients that may cut across diagnostic categories and differ in their course. The long-term aim is to stratify patients at diagnosis and to identify, for each subgroup, existing interventions that may alter it.
 
